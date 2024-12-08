@@ -5,11 +5,14 @@
 - Bot-Bot
 - Lightning Web API
 
-## Experience
-- Backend with Python
-- Svelte
+## Experienced with
+- Python
+- JS
 - SQL
+- Java
 
 ## Currently Learning how to use
 - TS
 - Sveltekit
+
+<p align="center">Check me <a href="https://lightningweb.xyz">out!</a></p>
