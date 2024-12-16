@@ -7,9 +7,15 @@
 
 ## Experienced with
 - Python
-- JS
+- JS/TS
 - SQL
 - Java
+- Svelte
+
+## I know how to use
+- Flask
+- Sveltekit
+- PostgreSQL
 
 ## Currently Learning how to use
 - TS
