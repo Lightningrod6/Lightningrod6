@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Lightning</h1>
+<h1 align="center">Welcome to Lightning Web</h1>
 
 ## I am currently creating
 - Lightning Web
